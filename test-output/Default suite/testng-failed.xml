@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.tc_loginpage.TC_LP_001">
+      <class name="testcases.SystemSettings_TC">
         <methods>
-          <include name="verifyPreviewResult_Positive"/>
+          <include name="handleScrollbars"/>
           <include name="tearDown"/>
+          <include name="faliurScreenshotMethod"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testcases.tc_loginpage.TC_LP_001 -->
+      </class> <!-- testcases.SystemSettings_TC -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

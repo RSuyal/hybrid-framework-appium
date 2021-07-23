@@ -47,8 +47,23 @@ AppiumDriver<MobileElement> ldriver;
 	@CacheLookup
 	MobileElement resultFinal;
 	
+	@FindBy(id="com.google.android.calculator:id/formula")
+	@CacheLookup
+	MobileElement dispalCalculation;
 	
+	@FindBy(id="com.google.android.calculator:id/del")
+	@CacheLookup
+	MobileElement delete;
 	
+	public void clickdelete()
+	{
+		delete.click();
+	}
+	
+	public String getCalculationScreen()
+	{
+		return dispalCalculation.getText();
+	}
 	
 	public void clickNo7()
 	{
@@ -75,17 +90,14 @@ AppiumDriver<MobileElement> ldriver;
 		buttonAdd.click();
 	}
 	
-	public String viewPreviewResult()
+	public String getPreviewResult()
 	{
 		return resultPreview.getText();
 	}
 	
-	public String viewFinalResult()
+	public String getFinalResult()
 	{
 		return resultFinal.getText();
-		
 	}
 	
-		
-
 }
