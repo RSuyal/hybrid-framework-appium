@@ -6,8 +6,7 @@
 		<listener class-name="utilities.Reporting"> </listener>
 	</listeners>
 
-
-	<test name="Calculator Test">
+	<test name="Calc Test">
 		<parameter name="actionType" value="launch"> </parameter>
 		<classes>
 			<class name="testcases.Calc_TC"> </class>

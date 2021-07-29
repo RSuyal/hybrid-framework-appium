@@ -23,3 +23,88 @@
 2021-07-24 01:54:57,233 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
 2021-07-24 01:54:57,377 - Appium_Hybrid_Framework -INFO - Clicked on no. 7
 2021-07-24 01:54:58,662 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-26 18:32:24,720 - Appium_Hybrid_Framework -INFO - Clicked on No. 6
+2021-07-26 18:32:25,423 - Appium_Hybrid_Framework -INFO - Clicked on add button
+2021-07-26 18:32:28,734 - Appium_Hybrid_Framework -INFO - Clicked on delete button to clear all
+2021-07-26 18:32:29,368 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-26 18:32:30,018 - Appium_Hybrid_Framework -INFO - Clicked on no. 7
+2021-07-26 18:32:30,702 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-27 12:32:32,682 - Appium_Hybrid_Framework -INFO - Setting up the driver
+2021-07-27 12:32:35,535 - Appium_Hybrid_Framework -INFO - First testcase execution started
+2021-07-27 12:41:19,825 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-27 13:16:04,296 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-27 13:16:08,062 - Appium_Hybrid_Framework -INFO - Execution completed and driver closed
+2021-07-27 13:58:16,019 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-27 13:58:23,111 - Appium_Hybrid_Framework -INFO - entered username
+2021-07-27 13:58:25,154 - Appium_Hybrid_Framework -INFO - Execution completed and driver closed
+2021-07-27 15:26:04,753 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-27 15:26:08,996 - Appium_Hybrid_Framework -INFO - entered username
+2021-07-27 15:26:10,950 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-27 18:07:21,138 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-27 18:07:31,336 - Appium_Hybrid_Framework -INFO - tc_001_validUNInvalidPass test case failed
+2021-07-27 18:07:33,488 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-27 19:49:31,161 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-27 19:49:33,516 - Appium_Hybrid_Framework -INFO - tc_001_validUNInvalidPass test case failed
+2021-07-27 19:49:37,357 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-28 00:17:01,598 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-28 00:17:01,766 - Appium_Hybrid_Framework -INFO - verifyCalculationScreen test case failed
+2021-07-28 00:17:04,292 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-28 00:23:16,145 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-28 00:23:16,247 - Appium_Hybrid_Framework -INFO - verifyCalculationScreen test case failed
+2021-07-28 00:23:17,593 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-28 00:25:01,710 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-28 00:25:03,628 - Appium_Hybrid_Framework -INFO - Clicked on No. 6
+2021-07-28 00:25:04,312 - Appium_Hybrid_Framework -INFO - Clicked on add button
+2021-07-28 00:25:05,657 - Appium_Hybrid_Framework -INFO - verifyPreviewResult test case failed
+2021-07-28 00:25:06,846 - Appium_Hybrid_Framework -INFO - Clicked on delete button to clear all
+2021-07-28 00:25:07,506 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-28 00:25:08,762 - Appium_Hybrid_Framework -INFO - Clicked on no. 7
+2021-07-28 00:25:08,807 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-28 00:25:10,299 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 12:48:41,481 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 12:48:41,534 - Appium_Hybrid_Framework -INFO - verifyCalculationScreen test case failed
+2021-07-29 12:56:06,989 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 12:56:07,145 - Appium_Hybrid_Framework -INFO - verifyCalculationScreen test case failed
+2021-07-29 12:56:09,081 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 13:07:26,953 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 13:07:27,090 - Appium_Hybrid_Framework -INFO - verifyCalculationScreen test case failed
+2021-07-29 13:07:28,562 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 13:40:05,155 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 13:40:05,365 - Appium_Hybrid_Framework -INFO - verifyCalculationScreen test case failed
+2021-07-29 13:40:06,604 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 13:48:19,665 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 13:48:20,375 - Appium_Hybrid_Framework -INFO - verifyCalculationScreen test case failed
+2021-07-29 13:48:21,522 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 15:53:45,072 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 15:53:47,132 - Appium_Hybrid_Framework -INFO - Clicked on No. 6
+2021-07-29 15:53:47,853 - Appium_Hybrid_Framework -INFO - Clicked on add button
+2021-07-29 15:53:49,216 - Appium_Hybrid_Framework -INFO - verifyPreviewResult_VD test case failed
+2021-07-29 15:53:50,953 - Appium_Hybrid_Framework -INFO - Clicked on delete button to clear all
+2021-07-29 15:53:51,600 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 15:53:52,246 - Appium_Hybrid_Framework -INFO - Clicked on no. 7
+2021-07-29 15:53:52,902 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 15:53:54,784 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 16:03:15,740 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 16:03:17,682 - Appium_Hybrid_Framework -INFO - Clicked on No. 6
+2021-07-29 16:03:18,349 - Appium_Hybrid_Framework -INFO - Clicked on add button
+2021-07-29 16:03:21,152 - Appium_Hybrid_Framework -INFO - Clicked on delete button to clear all
+2021-07-29 16:03:21,804 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 16:03:22,451 - Appium_Hybrid_Framework -INFO - Clicked on no. 7
+2021-07-29 16:03:23,084 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 16:03:24,584 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 16:12:00,105 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 16:12:02,038 - Appium_Hybrid_Framework -INFO - Clicked on No. 6
+2021-07-29 16:12:03,744 - Appium_Hybrid_Framework -INFO - Clicked on add button
+2021-07-29 16:12:05,914 - Appium_Hybrid_Framework -INFO - Clicked on delete button to clear all
+2021-07-29 16:12:06,547 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 16:12:07,204 - Appium_Hybrid_Framework -INFO - Clicked on no. 7
+2021-07-29 16:12:07,848 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 16:12:09,391 - Appium_Hybrid_Framework -INFO - execution completed and driver closed
+2021-07-29 16:28:40,472 - Appium_Hybrid_Framework -INFO - driver is set
+2021-07-29 16:28:42,319 - Appium_Hybrid_Framework -INFO - Clicked on No. 6
+2021-07-29 16:28:43,037 - Appium_Hybrid_Framework -INFO - Clicked on add button
+2021-07-29 16:28:45,751 - Appium_Hybrid_Framework -INFO - Clicked on delete button to clear all
+2021-07-29 16:28:46,402 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 16:28:47,049 - Appium_Hybrid_Framework -INFO - Clicked on no. 7
+2021-07-29 16:28:47,703 - Appium_Hybrid_Framework -INFO - Clicked on no. 6
+2021-07-29 16:28:49,247 - Appium_Hybrid_Framework -INFO - execution completed and driver closed

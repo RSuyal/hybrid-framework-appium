@@ -4,13 +4,14 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
+
 public class ReadConfig {
 
 	Properties pro;
 
 	public ReadConfig()
 	{
-		File src= new File("./Configuration\\config.properties");
+		File src= new File(System.getProperty("user.dir")+"/Configuration/config.properties");
 
 		try {
 			FileInputStream fis = new FileInputStream(src);
@@ -56,7 +57,7 @@ public class ReadConfig {
 		
 	public String getDefaultAppPath()
 	{
-		String defaultAppPath = pro.getProperty("defaultAppPath");
+		String defaultAppPath = (System.getProperty("user.dir")+pro.getProperty("defaultAppPath"));
 		return defaultAppPath;
 
 	}
@@ -85,7 +86,7 @@ public class ReadConfig {
 
 	public String getCalculatorAppPath()
 	{
-		String calculatorAppPath = pro.getProperty("calculatorAppPath");
+		String calculatorAppPath = (System.getProperty("user.dir")+pro.getProperty("calculatorAppPath"));
 		return calculatorAppPath;
 
 	}
@@ -111,7 +112,6 @@ public class ReadConfig {
 
 	}
 	
-
 	public String getAndroid11PlatformVersion()
 	{
 		String android11PlatformVersion = pro.getProperty("android11PlatformVersion");
